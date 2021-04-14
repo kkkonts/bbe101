@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+body, html {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'PT Sans', sans-serif;
+  background: white;
+}
+
+a {
+  color: inherit;
+}
